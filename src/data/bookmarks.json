@@ -389,5 +389,48 @@
     ],
     "dateAdded": "2026-05-01",
     "cover": "/screenshots/robinhood.jpg"
+  },
+  {
+    "id": "uniswap",
+    "url": "https://app.uniswap.org/",
+    "title": "Uniswap",
+    "subtitle": "Swap Anytime, Anywhere",
+    "creator": "Uniswap Labs",
+    "handle": "uniswap.org",
+    "style": "Light DeFi — Pink Mono with Token Bokeh",
+    "builder": "Custom · React",
+    "categories": [
+      "ui-components",
+      "color",
+      "illustration",
+      "landing-page"
+    ],
+    "accent": "#ff007a",
+    "accentDim": "rgba(255,0,122,0.08)",
+    "accentBorder": "rgba(255,0,122,0.2)",
+    "techniques": [
+      {
+        "label": "Token bokeh field",
+        "desc": "Out-of-focus circles scattered across the canvas — each one a real token's brand colour (ETH grey, USDC blue, BTC orange). Logo-as-confetti without a single sharp shape."
+      },
+      {
+        "label": "Product-as-hero",
+        "desc": "The swap card itself is the hero — no feature grid, no testimonial section. The UI literally IS the value prop and carries the page."
+      },
+      {
+        "label": "Tinted-fill primary CTA",
+        "desc": "Get Started uses tinted pink fill at ~15% with full-saturation pink text. Reads as primary while staying typographically calm — zero shadow, no border."
+      },
+      {
+        "label": "One-shape pill system",
+        "desc": "Token selectors, Connect, and primary CTA share the same rounded-pill geometry. Single shape language across nav, form input, and conversion."
+      },
+      {
+        "label": "Editorial display sans",
+        "desc": "Bold humanist sans at hero scale gives the swap interface a magazine voice — most DeFi reaches for monospace or rigid grotesques."
+      }
+    ],
+    "dateAdded": "2026-05-01",
+    "cover": "/screenshots/uniswap.jpg"
   }
 ]
