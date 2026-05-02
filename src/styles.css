@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: #0d0d0d;
+  font-family: "DM Sans", system-ui, -apple-system, sans-serif;
+  color: #f4f4f5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-family: inherit;
+}
+
+button {
+  font-family: inherit;
+}

@@ -1,0 +1,350 @@
+[
+  {
+    "id": "voidai",
+    "url": "https://voidai.framer.website/",
+    "title": "VOIDAI",
+    "subtitle": "AI Agency Template",
+    "creator": "Framebase",
+    "handle": "@framebase_",
+    "style": "Editorial Dark SaaS",
+    "builder": "Framer · $79",
+    "categories": [
+      "landing-page",
+      "typography",
+      "motion",
+      "layout"
+    ],
+    "accent": "#a78bfa",
+    "accentDim": "rgba(167,139,250,0.1)",
+    "accentBorder": "rgba(167,139,250,0.2)",
+    "techniques": [
+      {
+        "label": "Word cycler",
+        "desc": "AnimatePresence mode='wait' — rotates value props through a single line on interval"
+      },
+      {
+        "label": "Editorial pull quote",
+        "desc": "Manual line breaks via display:block spans, 4-step color scale for reading rhythm"
+      },
+      {
+        "label": "GIF illustrations",
+        "desc": "Screen recordings → Gifski-compressed GIFs used as feature section visuals"
+      },
+      {
+        "label": "Jumbo wordmark",
+        "desc": "8906px-wide PNG as hero centrepiece — type treated as image"
+      },
+      {
+        "label": "H-scroll masonry",
+        "desc": "Mixed portrait/landscape card heights create visual rhythm in draggable row"
+      }
+    ],
+    "dateAdded": "2026-04-22",
+    "cover": "/screenshots/voidai.jpg"
+  },
+  {
+    "id": "xtract",
+    "url": "https://xtract.framer.ai/",
+    "title": "Xtract",
+    "subtitle": "AI Automation Agency",
+    "creator": "Kanishk Dubey",
+    "handle": "@xlauncherx7",
+    "style": "Dark SaaS Bento",
+    "builder": "Framer · Free",
+    "categories": [
+      "landing-page",
+      "ui-components",
+      "motion",
+      "layout"
+    ],
+    "accent": "#60a5fa",
+    "accentDim": "rgba(96,165,250,0.1)",
+    "accentBorder": "rgba(96,165,250,0.2)",
+    "techniques": [
+      {
+        "label": "Bento UI cards",
+        "desc": "Fake-but-realistic UI mockups as section illustrations — no icons, no stock photos"
+      },
+      {
+        "label": "Infinite marquee",
+        "desc": "Doubled list + single CSS translateX(-50%) keyframe. No library needed."
+      },
+      {
+        "label": "Drag carousel",
+        "desc": "Framer Scroll component set to horizontal — zero JS, native gesture"
+      },
+      {
+        "label": "Depth via fill value",
+        "desc": "Slightly lighter bg fills create elevation over dark bg — no box-shadow needed"
+      },
+      {
+        "label": "Micro-illustrations",
+        "desc": "Step-process widgets with contextual animated UI previews per step"
+      }
+    ],
+    "dateAdded": "2026-04-22",
+    "cover": "/screenshots/xtract.jpg"
+  },
+  {
+    "id": "signalx",
+    "url": "https://dribbble.com/shots/27031278-Signal-X-SaaS-Technology-Website-Design",
+    "title": "Signal X",
+    "subtitle": "SaaS Technology Website Design",
+    "creator": "Emon",
+    "handle": "@emon_pixels",
+    "style": "Dark Glassmorphism Fintech",
+    "builder": "Figma · Dribbble Concept",
+    "categories": [
+      "ui-components",
+      "layout",
+      "data-viz",
+      "color"
+    ],
+    "accent": "#818cf8",
+    "accentDim": "rgba(129,140,248,0.1)",
+    "accentBorder": "rgba(129,140,248,0.2)",
+    "techniques": [
+      {
+        "label": "Corner bracket markers",
+        "desc": "L-shaped divs at card corners — 4 absolute-positioned elements, each showing only 2 borders for HUD aesthetic"
+      },
+      {
+        "label": "Glassmorphism cards",
+        "desc": "backdrop-filter: blur(20px) + rgba(255,255,255,0.05) bg + 1px border at ~12% opacity"
+      },
+      {
+        "label": "Organic wave chart",
+        "desc": "SVG cubic bezier path fills, two overlapping translucent areas for market vs portfolio comparison"
+      },
+      {
+        "label": "Avatar arc network",
+        "desc": "Circular avatars positioned along a curved SVG path — simulates a social graph with CSS transforms"
+      },
+      {
+        "label": "Radial dot matrix",
+        "desc": "background: radial-gradient(circle, rgba(255,255,255,0.15) 1px, transparent 1px) @ 16px/16px repeat"
+      }
+    ],
+    "dateAdded": "2026-04-22",
+    "cover": "/screenshots/signalx.jpg"
+  },
+  {
+    "id": "nubien",
+    "url": "https://nubien.framer.website/",
+    "title": "Nubien",
+    "subtitle": "Premium AI Agency & Studio",
+    "creator": "Unknown",
+    "handle": "framer.website",
+    "style": "Dark Purple SaaS — Icon-First Cards",
+    "builder": "Framer · Free",
+    "categories": [
+      "landing-page",
+      "ui-components",
+      "illustration",
+      "color"
+    ],
+    "accent": "#a855f7",
+    "accentDim": "rgba(168,85,247,0.1)",
+    "accentBorder": "rgba(168,85,247,0.2)",
+    "techniques": [
+      {
+        "label": "Icon-first card structure",
+        "desc": "Centered icon circle → heading → description → UI illustration. Top-down reading: symbol, concept, proof"
+      },
+      {
+        "label": "SVG connection tree",
+        "desc": "Brand logos joined by SVG line paths converging to a single central node — API integration metaphor"
+      },
+      {
+        "label": "Scrolling word cloud",
+        "desc": "Vertical/diagonal grid of capability words scrolling behind a centred auth badge"
+      },
+      {
+        "label": "Waveform illustration",
+        "desc": "SVG rect bars of varying heights — classic speech/audio visualization pattern"
+      },
+      {
+        "label": "Noise grain texture",
+        "desc": "SVG feTurbulence filter or semi-transparent PNG overlay applied to card surfaces"
+      }
+    ],
+    "dateAdded": "2026-04-22",
+    "cover": "/screenshots/nubien.jpg"
+  },
+  {
+    "id": "polytrade",
+    "url": "https://www.polytrade.finance/",
+    "title": "Polytrade",
+    "subtitle": "Real World Assets On-chain",
+    "creator": "Polytrade Team",
+    "handle": "polytrade.finance",
+    "style": "Light Web3 / RWA Fintech",
+    "builder": "Webflow",
+    "categories": [
+      "landing-page",
+      "3d",
+      "layout",
+      "color"
+    ],
+    "accent": "#6366f1",
+    "accentDim": "rgba(99,102,241,0.08)",
+    "accentBorder": "rgba(99,102,241,0.18)",
+    "techniques": [
+      {
+        "label": "Perspective-tilted product UI",
+        "desc": "CSS perspective + rotateX/rotateY on the dashboard screenshot creates the classic 3D product hero tilt"
+      },
+      {
+        "label": "Floating annotation badges",
+        "desc": "Pill labels positioned outside the tilted card frame — breaks the box, implies depth"
+      },
+      {
+        "label": "Stacked card scatter",
+        "desc": "Multiple overlapping cards at different rotation angles suggest a physical desk of assets"
+      },
+      {
+        "label": "3D CGI asset renders",
+        "desc": "Isometric 3D renders of real-world assets used as category illustrations — not photos"
+      },
+      {
+        "label": "Soft lavender gradient bg",
+        "desc": "Light mode linear-gradient from near-white to soft #e8e8ff — never pure white"
+      }
+    ],
+    "dateAdded": "2026-04-22",
+    "cover": "/screenshots/polytrade.jpg"
+  },
+  {
+    "id": "stripe",
+    "url": "https://stripe.com/",
+    "title": "Stripe",
+    "subtitle": "Financial Infrastructure to Grow Your Revenue",
+    "creator": "Stripe Design Team",
+    "handle": "stripe.com",
+    "style": "Enterprise SaaS — Gradient Wave",
+    "builder": "Next.js · Custom Design System",
+    "categories": [
+      "landing-page",
+      "motion",
+      "ui-components",
+      "color"
+    ],
+    "accent": "#635bff",
+    "accentDim": "rgba(99,91,255,0.08)",
+    "accentBorder": "rgba(99,91,255,0.18)",
+    "techniques": [
+      {
+        "label": "Animated gradient wave hero",
+        "desc": "WebGL canvas animation with shifting indigo/purple/teal/coral mesh — static PNG fallback for reduced-motion"
+      },
+      {
+        "label": "Mixed-weight typographic emphasis",
+        "desc": "Italic serif mixed with sans in the same headline — typeface contrast as emphasis, not size"
+      },
+      {
+        "label": "Gradient text via background-clip",
+        "desc": "background-clip: text; color: transparent — letters carry the brand gradient range"
+      },
+      {
+        "label": "Bento product grid",
+        "desc": "Asymmetric large + small cards, each with high-fidelity mini product UI as illustration"
+      },
+      {
+        "label": "Border-only elevation",
+        "desc": "Cards use 1px border at 8% opacity — zero box-shadow, elevation via bg tint contrast"
+      },
+      {
+        "label": "Radial particle burst",
+        "desc": "HTML5 Canvas 2D, no WebGL. Particles fan from a bottom-centre origin with random angle/maxLen/speed. Opacity eases in (0–15% of travel), holds (15–70%), fades out (70–100%). clearRect + requestAnimationFrame loop — dot tip drawn with ctx.arc at the line endpoint."
+      }
+    ],
+    "dateAdded": "2026-04-27",
+    "cover": "/screenshots/stripe.jpg"
+  },
+  {
+    "id": "gamma",
+    "url": "https://gamma.app/",
+    "title": "Gamma",
+    "subtitle": "AI Presentation & Website Builder",
+    "creator": "Gamma Tech",
+    "handle": "gamma.app",
+    "style": "Expressive AI-Native SaaS — Light Editorial",
+    "builder": "Next.js · Tailwind · Framer Motion",
+    "categories": [
+      "landing-page",
+      "motion",
+      "ui-components",
+      "typography"
+    ],
+    "accent": "#4361ee",
+    "accentDim": "rgba(67,97,238,0.08)",
+    "accentBorder": "rgba(67,97,238,0.18)",
+    "techniques": [
+      {
+        "label": "Staggered card reveal",
+        "desc": "Each card starts at opacity:0 + translateY(22px). setTimeout fires per card at index × staggerMs delay. cubic-bezier(0.16,1,0.3,1) spring ease-out snaps cards into place."
+      },
+      {
+        "label": "IntersectionObserver trigger",
+        "desc": "Stagger fires once when 20% of the section enters viewport — no scroll listeners, no layout thrash. observe(section) → animateCards() on entry."
+      },
+      {
+        "label": "Clip-path word reveal",
+        "desc": "Headline words wrapped in overflow:hidden divs. Each word slides up from translateY(110%) with animation-delay: calc(var(--i) * 0.08s) — the wrapping div clips the motion."
+      },
+      {
+        "label": "Multi-layer radial gradient bg",
+        "desc": "3 overlapping radial-gradient blobs at different positions/colours layered on a dark base. Each blob at ~30% opacity — stacking creates the painted, glowing look."
+      },
+      {
+        "label": "Product as marketing medium",
+        "desc": "The page IS built like a Gamma presentation — card-based sections, cinematic transitions, content-first layout. The design demonstrates the product by embodying it."
+      }
+    ],
+    "dateAdded": "2026-04-30",
+    "cover": "/screenshots/gamma.jpg"
+  },
+  {
+    "id": "instrument",
+    "url": "https://www.instrument.com/work/",
+    "title": "Instrument",
+    "subtitle": "Design Studio — Campaign US Agency of the Year 2026",
+    "creator": "Instrument Studio",
+    "handle": "instrument.com",
+    "style": "Editorial Portfolio Grid — Dark Masonry",
+    "builder": "Custom · Next.js",
+    "categories": [
+      "layout",
+      "typography",
+      "motion",
+      "color"
+    ],
+    "accent": "#f5f500",
+    "accentDim": "rgba(245,245,0,0.07)",
+    "accentBorder": "rgba(245,245,0,0.2)",
+    "techniques": [
+      {
+        "label": "Masonry case study grid",
+        "desc": "Mixed portrait and landscape thumbnails in an auto-filling CSS grid — no fixed rows, each image fills its natural aspect ratio. Creates editorial variety without manual placement."
+      },
+      {
+        "label": "Hover-reveal metadata",
+        "desc": "Client name and category tags are hidden by default, revealed on hover via opacity + translateY transition. Keeps the grid visually clean — images speak first."
+      },
+      {
+        "label": "Category tag system",
+        "desc": "#BRAND #MARKETING #PRODUCT as filterable taxonomy. Tags use monospace uppercase at small size — typographic restraint signals design confidence."
+      },
+      {
+        "label": "Full-bleed image cards",
+        "desc": "No card borders, no padding, no rounded corners on the grid items — images bleed edge-to-edge inside their cells. White gutters do all the separation work."
+      },
+      {
+        "label": "Typeface as identity",
+        "desc": "Instrument uses a custom/distinctive display typeface for the studio name — the wordmark IS the brand. No icon, no logomark."
+      }
+    ],
+    "dateAdded": "2026-04-30",
+    "cover": "/screenshots/instrument.jpg"
+  }
+]
