@@ -346,5 +346,48 @@
     ],
     "dateAdded": "2026-04-30",
     "cover": "/screenshots/instrument.jpg"
+  },
+  {
+    "id": "robinhood",
+    "url": "https://robinhood.com/us/en/",
+    "title": "Robinhood",
+    "subtitle": "Stocks, Options & Crypto Trading",
+    "creator": "Robinhood Design",
+    "handle": "robinhood.com",
+    "style": "Dark Editorial Fintech — Lime Mono",
+    "builder": "Custom · Next.js",
+    "categories": [
+      "landing-page",
+      "typography",
+      "color",
+      "illustration"
+    ],
+    "accent": "#c8fa1b",
+    "accentDim": "rgba(200,250,27,0.08)",
+    "accentBorder": "rgba(200,250,27,0.2)",
+    "techniques": [
+      {
+        "label": "Display serif at hero scale",
+        "desc": "Large transitional serif sets the headline at magazine-cover scale — financial product speaking in editorial cadence. Sans handles body copy."
+      },
+      {
+        "label": "Wireframe isometric illustration",
+        "desc": "Two stacked cubes drawn as a single-weight lime line — no fill, no shading. Stand-in for the deposit vault, concept-first."
+      },
+      {
+        "label": "Bordered-vs-filled CTA pair",
+        "desc": "Identical pill geometry; only the fill swaps. Outlined Log In + filled Sign Up — primary/secondary hierarchy in one shape language."
+      },
+      {
+        "label": "Single-accent reduction",
+        "desc": "Whole page lives on black + white text + one lime. Buttons, illustration, and wordmark all share the same hue — colour as constraint."
+      },
+      {
+        "label": "Editorial promo split",
+        "desc": "Headline left, illustration right — no cards, no backgrounds, no scaffolding. Whitespace and typographic scale carry the composition."
+      }
+    ],
+    "dateAdded": "2026-05-01",
+    "cover": "/screenshots/robinhood.jpg"
   }
 ]
