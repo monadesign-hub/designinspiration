@@ -62,7 +62,7 @@ export default function App() {
                   margin: 0,
                 }}
               >
-                Margin Notes
+                Visual Notebook
               </h1>
               <p style={{ color: "#ffffff", fontSize: 13, margin: "5px 0 0" }}>
                 {BOOKMARKS.length} curated · pixel-perfect craft & motion reference
