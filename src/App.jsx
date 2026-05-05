@@ -35,7 +35,7 @@ export default function App() {
         <div style={{ marginBottom: 28 }}>
           <p
             style={{
-              color: "#3f3f46",
+              color: "#ffffff",
               fontSize: 11,
               letterSpacing: "0.12em",
               textTransform: "uppercase",
@@ -62,9 +62,9 @@ export default function App() {
                   margin: 0,
                 }}
               >
-                Design Bookmarks
+                Margin Notes
               </h1>
-              <p style={{ color: "#52525b", fontSize: 13, margin: "5px 0 0" }}>
+              <p style={{ color: "#ffffff", fontSize: 13, margin: "5px 0 0" }}>
                 {BOOKMARKS.length} curated · pixel-perfect craft & motion reference
               </p>
             </div>
