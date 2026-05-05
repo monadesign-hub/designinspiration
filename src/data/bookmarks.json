@@ -432,5 +432,48 @@
     ],
     "dateAdded": "2026-05-01",
     "cover": "/screenshots/uniswap.jpg"
+  },
+  {
+    "id": "harvey",
+    "url": "https://www.harvey.ai/",
+    "title": "Harvey",
+    "subtitle": "AI Platform for Legal Work",
+    "creator": "Harvey AI",
+    "handle": "harvey.ai",
+    "style": "Editorial Cinematic Legal SaaS",
+    "builder": "Custom · Next.js",
+    "categories": [
+      "landing-page",
+      "typography",
+      "layout",
+      "color"
+    ],
+    "accent": "#b8895a",
+    "accentDim": "rgba(184,137,90,0.08)",
+    "accentBorder": "rgba(184,137,90,0.2)",
+    "techniques": [
+      {
+        "label": "Cinematic full-bleed hero",
+        "desc": "Film-still photograph fills the viewport — warm tungsten interior, shallow depth of field, subject left of centre holding a redlined document. Editorial photography as legitimacy proof, not stock illustration."
+      },
+      {
+        "label": "Display serif at hero scale",
+        "desc": "'Practice Made Perfect' set in a wide transitional serif, white-on-photo. Borrowed cadence from premium print — signals craft and prestige, not tech-bro SaaS."
+      },
+      {
+        "label": "Typeface-contrast hierarchy",
+        "desc": "Serif headline + sans subhead at body scale. Hierarchy carried by typeface switch, never by size jump — subhead never competes with the display line."
+      },
+      {
+        "label": "Logo marquee in hero foot",
+        "desc": "Bottom ~50px of the hero strips into a horizontal client wash — Repsol, ReedSmith, PwC, O'Melveny, KKR. Trust proof folded into the hero rather than a separate section."
+      },
+      {
+        "label": "Single black-pill CTA",
+        "desc": "One Request a Demo button, solid black on the photograph; nav Login stays outlined-glass to defer. One destination, one fill — primary path unambiguous on a busy image."
+      }
+    ],
+    "dateAdded": "2026-05-04",
+    "cover": "/screenshots/harvey.jpg"
   }
 ]
