@@ -519,5 +519,48 @@
     ],
     "dateAdded": "2026-05-04",
     "cover": "/screenshots/cursor.jpg"
+  },
+  {
+    "id": "framer",
+    "url": "https://www.framer.com/",
+    "title": "Framer",
+    "subtitle": "No-Code Site Builder",
+    "creator": "Framer",
+    "handle": "framer.com",
+    "style": "Black Editorial Showcase — Jumbo Display Type",
+    "builder": "Framer",
+    "categories": [
+      "landing-page",
+      "typography",
+      "layout",
+      "motion"
+    ],
+    "accent": "#35e2eb",
+    "accentDim": "rgba(53,226,235,0.08)",
+    "accentBorder": "rgba(53,226,235,0.2)",
+    "techniques": [
+      {
+        "label": "Customer-site marquee as proof",
+        "desc": "Below the hero, a horizontal row of real customer site thumbnails (DUNA, algo, ELLE, Cartesia, DECO STUDIO) — each in a totally different art direction: illustration, gradient blobs, fashion editorial, dark voice-AI, 3D type. The product's range proven by the breadth of work made with it, not by feature lists."
+      },
+      {
+        "label": "Jumbo grotesque headline",
+        "desc": "'Build better sites, faster' set in a wide grotesque sans, two-line, centred, white on black at hero scale. Letterforms compressed — kerning tightened to feel print-poster, not webpage."
+      },
+      {
+        "label": "Eyebrow as inline campaign link",
+        "desc": "Small 'State of Sites '26 · Unlock the report now' pinned above the H1. Bullet separator + linked phrase — current campaign promoted in 11px without competing for hero space."
+      },
+      {
+        "label": "Inverted CTA pair",
+        "desc": "Solid white pill ('Start for free') + dark grey pill ('Start with AI'). Same geometry, opposite mass — on a black canvas, the lighter button reads as primary. Inverts the usual filled-dark convention because the page itself is dark."
+      },
+      {
+        "label": "Wordmark only, no logotype",
+        "desc": "Framer monogram (lowercase F mark) sits alone at top-left. No company name spelled out, no tagline beside it — identity carried entirely by the mark."
+      }
+    ],
+    "dateAdded": "2026-05-04",
+    "cover": "/screenshots/framer.jpg"
   }
 ]
