@@ -475,5 +475,49 @@
     ],
     "dateAdded": "2026-05-04",
     "cover": "/screenshots/harvey.jpg"
+  },
+  {
+    "id": "cursor",
+    "url": "https://cursor.com/home",
+    "title": "Cursor",
+    "subtitle": "AI Code Editor",
+    "creator": "Anysphere",
+    "handle": "@cursor_ai",
+    "style": "Cream Editorial — Painting + Product Mockup",
+    "builder": "Custom · Next.js · Tailwind",
+    "categories": [
+      "landing-page",
+      "illustration",
+      "layout",
+      "color",
+      "typography"
+    ],
+    "accent": "#8a9b76",
+    "accentDim": "rgba(138,155,118,0.08)",
+    "accentBorder": "rgba(138,155,118,0.2)",
+    "techniques": [
+      {
+        "label": "Oil painting hosts the IDE",
+        "desc": "A 19th-century romantic landscape — slate peak, sage lake, cliffs in haze — fills the lower hero. The Cursor Desktop window sits centred on the painting like a figure on a canvas. Argument by juxtaposition: the warmth of human-made art hosting the cold structure of code. Art and technology in one frame."
+      },
+      {
+        "label": "Stacked product windows",
+        "desc": "A second smaller Cursor CLI window overlaps the desktop one bottom-right — same painting backdrop bleeding behind both. Reads like a torn-out detail of the larger view, signalling the product spans surfaces (GUI + terminal) without two separate sections."
+      },
+      {
+        "label": "Cream-paper page bg",
+        "desc": "Whole page lives on warm oat-cream rather than white. Pairs with the painting's tonal range — the page feels printed, not screen-glaring. No gradients, no glow, no SaaS sheen."
+      },
+      {
+        "label": "Display sans at hero scale",
+        "desc": "Wide grotesque sans set 2-line, full bleed, near-black on cream. No eyebrow, no preheader — the headline carries the entire upper hero alone. Confidence through restraint."
+      },
+      {
+        "label": "Mass-contrast pill CTA pair",
+        "desc": "Solid black 'Get started →' + transparent ghost 'Request a demo →'. Same pill geometry, opposite fill — mass primary, ghost secondary. Trailing arrows do the affordance work, no chevrons or icons."
+      }
+    ],
+    "dateAdded": "2026-05-04",
+    "cover": "/screenshots/cursor.jpg"
   }
 ]
