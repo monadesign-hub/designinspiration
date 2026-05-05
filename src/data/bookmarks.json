@@ -527,37 +527,37 @@
     "subtitle": "No-Code Site Builder",
     "creator": "Framer",
     "handle": "framer.com",
-    "style": "Black Editorial Showcase — Jumbo Display Type",
+    "style": "Black Product Accordion — Editor Over Output",
     "builder": "Framer",
     "categories": [
       "landing-page",
-      "typography",
+      "ui-components",
       "layout",
-      "motion"
+      "typography"
     ],
     "accent": "#35e2eb",
     "accentDim": "rgba(53,226,235,0.08)",
     "accentBorder": "rgba(53,226,235,0.2)",
     "techniques": [
       {
-        "label": "Customer-site marquee as proof",
-        "desc": "Below the hero, a horizontal row of real customer site thumbnails (DUNA, algo, ELLE, Cartesia, DECO STUDIO) — each in a totally different art direction: illustration, gradient blobs, fashion editorial, dark voice-AI, 3D type. The product's range proven by the breadth of work made with it, not by feature lists."
+        "label": "Editor over rendered output",
+        "desc": "Framer's 'Fill' settings panel floats in front of a browser chrome that itself contains a rendered customer site. Three layers stacked into one composition: tool → canvas → output. Shows the product operating on the work, not just resulting in it."
       },
       {
-        "label": "Jumbo grotesque headline",
-        "desc": "'Build better sites, faster' set in a wide grotesque sans, two-line, centred, white on black at hero scale. Letterforms compressed — kerning tightened to feel print-poster, not webpage."
+        "label": "Real customer site as demo canvas",
+        "desc": "The browser frame loads an actual Framer-built portfolio (baseform.framer.website — 'We craft digital brands with bold sp...'), complete with editorial fashion photography below. Marketing demo = live customer work, not a stylised mock."
       },
       {
-        "label": "Eyebrow as inline campaign link",
-        "desc": "Small 'State of Sites '26 · Unlock the report now' pinned above the H1. Bullet separator + linked phrase — current campaign promoted in 11px without competing for hero space."
+        "label": "Active-section accordion list",
+        "desc": "Vertical capability nav (AI, Design, CMS, Collaborate) where the active item expands to body copy + 'Learn more →'; siblings collapse to title-only and fade to mid-grey. Hierarchy by chroma, not by indicator bar or chevron."
       },
       {
-        "label": "Inverted CTA pair",
-        "desc": "Solid white pill ('Start for free') + dark grey pill ('Start with AI'). Same geometry, opposite mass — on a black canvas, the lighter button reads as primary. Inverts the usual filled-dark convention because the page itself is dark."
+        "label": "Browser chrome as picture frame",
+        "desc": "Mac traffic lights + URL bar + thin cyan selection ring wrap the demo. Product output presented as a real window — implies the site is running live, not a flat screenshot."
       },
       {
-        "label": "Wordmark only, no logotype",
-        "desc": "Framer monogram (lowercase F mark) sits alone at top-left. No company name spelled out, no tagline beside it — identity carried entirely by the mark."
+        "label": "Editor panel breaks the frame",
+        "desc": "The Fill panel anchors bottom-third and intentionally breaks the browser's right edge. Off-grid placement signals the editor is *acting on* the canvas, not part of the canvas's chrome."
       }
     ],
     "dateAdded": "2026-05-04",
