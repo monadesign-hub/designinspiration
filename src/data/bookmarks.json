@@ -440,37 +440,37 @@
     "subtitle": "AI Platform for Legal Work",
     "creator": "Harvey AI",
     "handle": "harvey.ai",
-    "style": "Editorial Cinematic Legal SaaS",
+    "style": "Dark Editorial Legal SaaS — Product Accordion",
     "builder": "Custom · Next.js",
     "categories": [
-      "landing-page",
-      "typography",
+      "ui-components",
       "layout",
-      "color"
+      "typography",
+      "landing-page"
     ],
     "accent": "#b8895a",
     "accentDim": "rgba(184,137,90,0.08)",
     "accentBorder": "rgba(184,137,90,0.2)",
     "techniques": [
       {
-        "label": "Cinematic full-bleed hero",
-        "desc": "Film-still photograph fills the viewport — warm tungsten interior, shallow depth of field, subject left of centre holding a redlined document. Editorial photography as legitimacy proof, not stock illustration."
+        "label": "Active-section accordion",
+        "desc": "Vertical capability list (Client engagement, Due diligence, Drafting, Research, Negotiation) where the open one expands to show body copy + paired product screen on the right; siblings collapse to a title row. One-at-a-time disclosure used as section navigation."
       },
       {
-        "label": "Display serif at hero scale",
-        "desc": "'Practice Made Perfect' set in a wide transitional serif, white-on-photo. Borrowed cadence from premium print — signals craft and prestige, not tech-bro SaaS."
+        "label": "Real product UI as illustration",
+        "desc": "Vault / Change of Control Analysis screen docks right of the active section — Filter / Add file / Column builder chips, file table with Yes/No provision pills. Marketing visual = product surface itself, no commissioned mock."
       },
       {
-        "label": "Typeface-contrast hierarchy",
-        "desc": "Serif headline + sans subhead at body scale. Hierarchy carried by typeface switch, never by size jump — subhead never competes with the display line."
+        "label": "Whisper-grey title hierarchy",
+        "desc": "Inactive section titles fade to mid-grey on near-black; only the active one promotes to white. Identical weight and size across all five — hierarchy carried purely through value contrast."
       },
       {
-        "label": "Logo marquee in hero foot",
-        "desc": "Bottom ~50px of the hero strips into a horizontal client wash — Repsol, ReedSmith, PwC, O'Melveny, KKR. Trust proof folded into the hero rather than a separate section."
+        "label": "Tonal inset, no border",
+        "desc": "Right-side product card sits on a barely-lighter grey rectangle whose edge is a soft tonal step, not a stroke. Window-without-card — depth without chrome."
       },
       {
-        "label": "Single black-pill CTA",
-        "desc": "One Request a Demo button, solid black on the photograph; nav Login stays outlined-glass to defer. One destination, one fill — primary path unambiguous on a busy image."
+        "label": "Persistent Ask Harvey pill",
+        "desc": "Bottom-right floating pill (serif H mark + 'Ask Harvey' label) stays anchored across sections. Brand AI surface as page chrome rather than a help-widget afterthought."
       }
     ],
     "dateAdded": "2026-05-04",
