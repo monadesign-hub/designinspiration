@@ -562,5 +562,48 @@
     ],
     "dateAdded": "2026-05-04",
     "cover": "/screenshots/framer.jpg"
+  },
+  {
+    "id": "lawsofux",
+    "url": "https://lawsofux.com/",
+    "title": "Laws of UX",
+    "subtitle": "UX Heuristics, Illustrated",
+    "creator": "Jon Yablonski",
+    "handle": "lawsofux.com",
+    "style": "Editorial Reference — Bauhaus Illustration on Parchment",
+    "builder": "Custom",
+    "categories": [
+      "typography",
+      "illustration",
+      "color",
+      "layout"
+    ],
+    "accent": "#3a516e",
+    "accentDim": "rgba(58,81,110,0.08)",
+    "accentBorder": "rgba(58,81,110,0.2)",
+    "techniques": [
+      {
+        "label": "Illustrations that demonstrate the law",
+        "desc": "Choice Overload card shows a grid of cream dots scattered across a blue field — overwhelming choice made visible. Chunking shows the same dots regrouped into an 'F' shape — literal grouping demo. Aesthetic-Usability uses a clean triangle-on-circle Bauhaus mark — the principle itself aesthetically pleasing. Each illustration IS a working example of the law named beside it."
+      },
+      {
+        "label": "Bauhaus-modernist illustration system",
+        "desc": "Flat geometry, two-tone within each card, circle/square/triangle primitives, no shading or gradients. Period-correct visual vocabulary borrowed from mid-century pedagogy — pairs the old discipline of design teaching with timeless heuristics."
+      },
+      {
+        "label": "Warm parchment paper bg",
+        "desc": "Whole page lives on dusty cream rather than white. Faint outlined circles drift behind the headline as decorative geometry. Reads like a printed reference book in the Designing With the Mind In Mind / Tufte lineage — not a webpage."
+      },
+      {
+        "label": "Display serif as opening line",
+        "desc": "Lead copy set in a transitional serif at editorial scale, flush-left, no eyebrow or chrome above it. The page presents itself as a book opening, not a marketing pitch."
+      },
+      {
+        "label": "Small-caps top nav",
+        "desc": "ARTICLES · BOOK · CARDS · INFO · STORE in spaced uppercase. Wide letterspacing — institutional, museum-label cadence. Anchors the editorial tone before any content loads."
+      }
+    ],
+    "dateAdded": "2026-05-06",
+    "cover": "/screenshots/lawsofux.jpg"
   }
 ]
