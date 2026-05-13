@@ -605,5 +605,52 @@
     ],
     "dateAdded": "2026-05-06",
     "cover": "/screenshots/lawsofux.jpg"
+  },
+  {
+    "id": "ramp",
+    "url": "https://ramp.com/",
+    "title": "Ramp",
+    "subtitle": "All-in-One Spend Management",
+    "creator": "Ramp",
+    "handle": "ramp.com",
+    "style": "Editorial Cream Fintech — Black + Lime, Live Odometers",
+    "builder": "Custom · Next.js",
+    "categories": [
+      "landing-page",
+      "typography",
+      "motion",
+      "ui-components"
+    ],
+    "accent": "#d4f74a",
+    "accentDim": "rgba(212,247,74,0.08)",
+    "accentBorder": "rgba(212,247,74,0.2)",
+    "techniques": [
+      {
+        "label": "Live odometer stat counters",
+        "desc": "Hero stat (US Corporate Payments Processed By Ramp: 0.6934860%) and the footer ribbon both tick in real time — rolling-digit odometers turn ambient data into motion. Operational metrics replace stock hero animation."
+      },
+      {
+        "label": "Pill email capture",
+        "desc": "Single rounded pill holds a transparent email input + lime 'Get started for free' button as one continuous unit. The CTA sits inside the input frame — submission affordance and form share one shape."
+      },
+      {
+        "label": "Macro-editorial headline",
+        "desc": "'Time is money. Save Both.' set at magazine-cover scale, heavy grotesque, near-black on warm cream — no eyebrow, no preheader. Headline alone carries the upper hero, fintech speaking in editorial cadence."
+      },
+      {
+        "label": "Dotted-paper page bg",
+        "desc": "Faint dot grid covers the whole canvas at very low opacity — receipt / ledger paper texture without breaking the minimal palette. Adds tactility to a white-heavy layout."
+      },
+      {
+        "label": "Stacked product surface mockups",
+        "desc": "macOS-chrome window showing the Bills page docks centred; a smaller phone mockup overlaps bottom-right with the matching mobile view. One product across two surfaces in a single composition — desktop + mobile without two separate sections."
+      },
+      {
+        "label": "Agents-at-work footer ribbon",
+        "desc": "Full-width bottom bar of six ticking counters — accounting fields coded, agent interactions, expenses reviewed, spend allocated, invoices processed, violations classified. Operational dashboard as social proof — work happening live, not testimonials in past tense."
+      }
+    ],
+    "dateAdded": "2026-05-13",
+    "cover": "/screenshots/ramp.jpg"
   }
 ]
