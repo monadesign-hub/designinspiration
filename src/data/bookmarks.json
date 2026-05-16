@@ -699,5 +699,52 @@
     ],
     "dateAdded": "2026-05-16",
     "cover": "/screenshots/legend.jpg"
+  },
+  {
+    "id": "maze",
+    "url": "https://maze.co/",
+    "title": "Maze",
+    "subtitle": "User Research and Testing Platform",
+    "creator": "Maze",
+    "handle": "@mazedesignhq",
+    "style": "Lime Tonal Manifesto — Marquee Feature Pills",
+    "builder": "Custom · DatoCMS",
+    "categories": [
+      "landing-page",
+      "typography",
+      "motion",
+      "color"
+    ],
+    "accent": "#c8ec5b",
+    "accentDim": "rgba(200,236,91,0.08)",
+    "accentBorder": "rgba(200,236,91,0.2)",
+    "techniques": [
+      {
+        "label": "Paragraph as hero copy",
+        "desc": "Instead of a punchy short headline, the hero is a full 3-line sentence set at display scale — 'Companies recruit the right participants effortlessly, conduct research autonomously, and deliver user insights that drive actual decisions.' Reads as a manifesto, not a tagline."
+      },
+      {
+        "label": "Tonal monochrome page",
+        "desc": "Saturated lime fills the whole canvas; copy is set in a darker olive of the same hue. Same colour, two values — no contrast switch, no accent pop. Confidence to live inside a single chord."
+      },
+      {
+        "label": "Marquee feature pills",
+        "desc": "Horizontal infinite-scroll rows of capability pills (Easily embeddable results · Card sorting · Tree testing · Surveys · Participant management · Screener questions · B2B or B2C participants). Feature taxonomy presented as moving typography rather than a static grid."
+      },
+      {
+        "label": "Edge-clipped pills",
+        "desc": "Pills at the canvas edges are cut mid-letter ('nts...' / 'S...'). Implies the row keeps going, never fully visible — always-revealing layout that makes breadth feel inexhaustible without listing it out."
+      },
+      {
+        "label": "Two-row offset marquee",
+        "desc": "Top and bottom pill rows are staggered horizontally so different pills surface at each x-position. Creates a parallax-of-content sense — the platform is wider than the screen, sliced two ways."
+      },
+      {
+        "label": "Mass-contrast CTA trio",
+        "desc": "Tiny top-right cluster: ghost 'Log in' text, outlined pill 'Try Maze', solid black 'Contact sales'. Three actions, three levels of mass — hierarchy carried by fill weight on near-identical geometry."
+      }
+    ],
+    "dateAdded": "2026-05-16",
+    "cover": "/screenshots/maze.jpg"
   }
 ]
