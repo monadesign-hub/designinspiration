@@ -652,5 +652,52 @@
     ],
     "dateAdded": "2026-05-13",
     "cover": "/screenshots/ramp.jpg"
+  },
+  {
+    "id": "legend",
+    "url": "https://legend.xyz/",
+    "title": "Legend",
+    "subtitle": "Onchain Money Superapp",
+    "creator": "Legend Labs",
+    "handle": "@legendapp",
+    "style": "Editorial DeFi in Nature — CGI Landscape + Glass Portfolio",
+    "builder": "Custom",
+    "categories": [
+      "landing-page",
+      "3d",
+      "motion",
+      "typography"
+    ],
+    "accent": "#3e9f4e",
+    "accentDim": "rgba(62,159,78,0.08)",
+    "accentBorder": "rgba(62,159,78,0.2)",
+    "techniques": [
+      {
+        "label": "CGI landscape hosts the product",
+        "desc": "Photoreal grass-and-rocks meadow with low rolling fog fills the lower hero; a translucent phone-style portfolio card floats centred over it. DeFi pulled out of dashboard-on-gradient marketing into something elemental — the product appears to live in nature, not over an abstract hero."
+      },
+      {
+        "label": "Cycling verb + colour swap",
+        "desc": "'Own your future. ● Earn up to 11.59%' — verb and icon rotate (Earn / Borrow / …) and the entire colour identity swaps with them (green for Earn, purple for Borrow). Not just text swap — hue, icon, and rate all change as one unit."
+      },
+      {
+        "label": "Compass coordinates as page chrome",
+        "desc": "47.0514° N / 9.0678° E set in monospace small-caps floating in the upper canvas margins. Real-world coordinates as decorative frame — gives the landscape a sense of place and signals geographic identity in a category that usually pretends to be placeless."
+      },
+      {
+        "label": "Translucent glass portfolio card",
+        "desc": "Phone-sized portfolio sits frosted over the meadow with rocks and grass legible through the surface. No opaque card, no drop-shadow scaffolding — the product UI feels weightless against the world behind it. Glass over photography, not card over gradient."
+      },
+      {
+        "label": "Dashed architectural gridlines",
+        "desc": "Faint vertical and horizontal dashed lines run across the canvas like working drawings. Frames the composition with structure without panels — design presented as draft, not finished marketing art."
+      },
+      {
+        "label": "Wind-down notice as page chrome",
+        "desc": "Pill-shaped top banner with a soft orange status dot — 'Legend is winding down in 58 days. Please withdraw your funds. Read Announcement →'. Even the deprecation message is shaped as polished page chrome, not a system alert ribbon."
+      }
+    ],
+    "dateAdded": "2026-05-16",
+    "cover": "/screenshots/legend.jpg"
   }
 ]
