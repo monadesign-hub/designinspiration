@@ -746,5 +746,52 @@
     ],
     "dateAdded": "2026-05-16",
     "cover": "/screenshots/maze.jpg"
+  },
+  {
+    "id": "statsig",
+    "url": "https://www.statsig.com/",
+    "title": "Statsig",
+    "subtitle": "Measure What Ships. Ship What Matters.",
+    "creator": "Statsig",
+    "handle": "@statsig",
+    "style": "Enterprise Experimentation SaaS — Cream + Indigo, Stacked Dashboards",
+    "builder": "Custom · Next.js",
+    "categories": [
+      "landing-page",
+      "ui-components",
+      "data-viz",
+      "layout"
+    ],
+    "accent": "#1e3a8a",
+    "accentDim": "rgba(30,58,138,0.08)",
+    "accentBorder": "rgba(30,58,138,0.2)",
+    "techniques": [
+      {
+        "label": "Stacked product surfaces",
+        "desc": "Two product UI windows — an experiment-results card (CUPED · Sequential Testing) behind a metrics-and-chart panel — overlap on a diagonal. Two product views in one composition, depth via offset rather than z-stack chrome."
+      },
+      {
+        "label": "Methodology chips as authenticity tell",
+        "desc": "Filter chips read CUPED · Sequential Testing — real statistical methods with green-check status, not Filter 1 / Filter 2 placeholder text. Marketing demo uses authentic stats vocabulary; the technical audience reads it as credibility, everyone else as professionalism."
+      },
+      {
+        "label": "Three-layer area chart",
+        "desc": "Daily comparison chart shows three overlapping translucent area fills (grey baseline, green variant, blue variant) along a jagged shared timeline. Live experimentation output IS the hero illustration — no abstract decoration."
+      },
+      {
+        "label": "Soft cream off-white page bg",
+        "desc": "Whole page lives on warm near-white rather than pure white. Pairs with muted indigo/green chart fills — feels printed reference paper, not SaaS-glaring. Same restraint Ramp and Cursor lean on."
+      },
+      {
+        "label": "Mass-contrast CTA pair",
+        "desc": "Solid black 'Create a free account' pill + ghost 'See how it works' pill at hero centre. Same geometry, opposite fill — primary by mass, secondary by outline. Mirrored in the upper-right Sign In / Contact Us nav pair."
+      },
+      {
+        "label": "Logo wall as hero base",
+        "desc": "Eight customer wordmarks (OpenAI, Brex, Televisa Univision, Microsoft, Atlassian, Decathlon, Milwaukee, Riot Games) sit in monotone grey directly below the product mockup — no 'Trusted by' header. Names alone do the social-proof work."
+      }
+    ],
+    "dateAdded": "2026-05-27",
+    "cover": "/screenshots/statsig.jpg"
   }
 ]
