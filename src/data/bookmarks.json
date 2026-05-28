@@ -793,5 +793,52 @@
     ],
     "dateAdded": "2026-05-27",
     "cover": "/screenshots/statsig.jpg"
+  },
+  {
+    "id": "reducto",
+    "url": "https://reducto.ai/",
+    "title": "Reducto",
+    "subtitle": "Agentic Document Platform",
+    "creator": "Reducto",
+    "handle": "@reductoai",
+    "style": "Continuous-Form Print — Tractor-Feed Margins, Wireframe Illustrations",
+    "builder": "Custom · Next.js",
+    "categories": [
+      "landing-page",
+      "illustration",
+      "layout",
+      "typography"
+    ],
+    "accent": "#9333ea",
+    "accentDim": "rgba(147,51,234,0.08)",
+    "accentBorder": "rgba(147,51,234,0.2)",
+    "techniques": [
+      {
+        "label": "Tractor-feed paper margins",
+        "desc": "Round perforation holes run top-to-bottom down both left and right margins — the look of continuous-form printer paper. Pure structural texture frames the canvas as machine output / API document, the brand metaphor embedded in the page chrome itself."
+      },
+      {
+        "label": "Hairline grid-cell layout",
+        "desc": "Features sit inside an explicit 3-column light-grey grid where each cell is bordered with a single 1px line. No cards, no shadows, no fills — information density via hairlines. Reads like a spec sheet, not a brochure."
+      },
+      {
+        "label": "Bounding-box pointer illustrations",
+        "desc": "Layout extraction shows a blank wireframe doc with tiny grey labels (table, text, figure) pointing to specific regions via leader lines. The illustration IS the product output — what Reducto returns when it parses a page, rendered as the marketing visual."
+      },
+      {
+        "label": "Greeting-pill polyglot proof",
+        "desc": "Language support shows Olá · Hello · வணக்கம் · こんにちは · Merhaba · 你好 · 안녕하세요 · Привіт as scattered pills, some with green-check status. Multilingual coverage demonstrated through actual character glyphs — no flags, no counters, no list of language names."
+      },
+      {
+        "label": "Single-hue spotlight cycler",
+        "desc": "Below the cubes illustration, three captions (Figure summarization / Graph extraction / Automatic page rotation) are listed in grey except Graph extraction, which is set in brand purple. A cycling spotlight that highlights one capability at a time within a fixed list — animation hinted, not labelled."
+      },
+      {
+        "label": "Dot-matrix grayscale page mockups",
+        "desc": "File type support shows three stacked document thumbnails (.jpeg / .xlsx tabs) rendered as dotted grayscale fills rather than literal screenshots. Period-correct printer-paper aesthetic — every illustration looks scanned, not designed."
+      }
+    ],
+    "dateAdded": "2026-05-27",
+    "cover": "/screenshots/reducto.jpg"
   }
 ]
