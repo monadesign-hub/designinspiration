@@ -840,5 +840,56 @@
     ],
     "dateAdded": "2026-05-27",
     "cover": "/screenshots/reducto.jpg"
+  },
+  {
+    "id": "binance-us",
+    "url": "https://www.binance.us/",
+    "title": "Binance.US",
+    "subtitle": "Crypto Trading in the U.S.",
+    "creator": "Binance.US",
+    "handle": "@binanceus",
+    "style": "Fintech Markets Index — Yellow CTA, Heat-Map Change Pills",
+    "builder": "Custom · React",
+    "categories": [
+      "ui-components",
+      "data-viz",
+      "layout",
+      "color"
+    ],
+    "accent": "#f3ba2f",
+    "accentDim": "rgba(243,186,47,0.08)",
+    "accentBorder": "rgba(243,186,47,0.2)",
+    "techniques": [
+      {
+        "label": "Heat-map change pills",
+        "desc": "Daily Change column renders every value inside a filled rounded rectangle — red for losses, green for gains. The single column becomes a wall of color blocks; the screen reads as a sentiment heat map at a glance, even at small text size."
+      },
+      {
+        "label": "Brand-owned token glyphs",
+        "desc": "Each row leads with the token's own circular brand mark (Bitcoin orange, Ethereum blue, USDT teal, BNB yellow, XRP black, USDC blue, Solana gradient). Identity carried by real logos rather than stand-in monograms — the table inherits the entire crypto-asset visual vocabulary."
+      },
+      {
+        "label": "Per-row sparkline column",
+        "desc": "A faint two-color line chart sits inside the Chart column for every row, identical width, micro-canvas. Adds quick visual context per token without leaving the index view — chart as a column-type, not a separate page."
+      },
+      {
+        "label": "Yellow pill as single action language",
+        "desc": "Every row's 'Trade' button is the same filled yellow pill with a chart icon, repeated 50+ times down the page. Pairs with upper-right yellow 'Sign Up'. One colour does all primary-action duty — brand hue as CTA signal, not decoration."
+      },
+      {
+        "label": "Active-by-border filter pills",
+        "desc": "All (53) / Top Gainers / Top Losers / Trending — pill row where the active state is signalled by yellow border colour, not by fill swap. Preserves a single horizontal rhythm; selection reads as outline shift, no mass change."
+      },
+      {
+        "label": "Star-favourite leading column",
+        "desc": "Every row begins with a faint outlined star — one-click watchlist add inline with the table. No 'Favorites' tab, no separate UI surface — the action lives at the row level where the eye already is."
+      },
+      {
+        "label": "Editorial promo chip strip",
+        "desc": "Top announcement uses a near-black pill ('Trade with the lowest fees in the U.S.') sitting on a pale green strip, with green dollar mark. Promotional language as a standalone editorial chip — not a banner with noisy bg-color."
+      }
+    ],
+    "dateAdded": "2026-05-28",
+    "cover": "/screenshots/binance-us.jpg"
   }
 ]
