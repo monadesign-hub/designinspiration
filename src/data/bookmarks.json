@@ -1028,5 +1028,52 @@
     ],
     "dateAdded": "2026-06-16",
     "cover": "/screenshots/openai.jpg"
+  },
+  {
+    "id": "claude-tutorials",
+    "url": "https://claude.com/resources/tutorials",
+    "title": "Claude Tutorials",
+    "subtitle": "Learn Claude With Hands-On Tutorials",
+    "creator": "Anthropic",
+    "handle": "@AnthropicAI",
+    "style": "Warm Editorial Resource Hub — Serif Cards + Checkbox Facets",
+    "builder": "Custom · Next.js",
+    "categories": [
+      "editorial",
+      "layout",
+      "ui-components",
+      "typography"
+    ],
+    "accent": "#cc785c",
+    "accentDim": "rgba(204,120,92,0.08)",
+    "accentBorder": "rgba(204,120,92,0.2)",
+    "techniques": [
+      {
+        "label": "Left checkbox facet rail",
+        "desc": "A persistent sidebar of square-checkbox filters (AI Fluency · Education · Engineering · Finance · Healthcare · HR …) with collapsible Features / Product accordion groups below. Documentation-style multi-select faceting on a marketing site — browse-by-discipline, not a flat tag row."
+      },
+      {
+        "label": "Colour-flooded card frames",
+        "desc": "Each tutorial card sits in its own saturated rounded panel — periwinkle, forest green, peach, indigo, terracotta, sage — with the thumbnail floating inset on top. The frame colour, not a border, separates cards; the grid reads as a swatch palette."
+      },
+      {
+        "label": "Serif titles on warm paper",
+        "desc": "Card headlines set in a transitional serif ('Choosing the right Claude model') on a warm off-white page bg. Editorial book-jacket cadence rather than SaaS sans — signals craft and reading, pairs with the Anthropic clay accent."
+      },
+      {
+        "label": "Product-UI vs film-still thumbnails",
+        "desc": "Two thumbnail registers mix in one grid — clean product screenshots (model picker, Connectors/Skills/Plugins tiles) and cinematic 'Claude Cowork for legal/sales/marketing' film stills with overlaid serif titles. How-to and brand-story imagery share the same card system."
+      },
+      {
+        "label": "Briefcase category footer tag",
+        "desc": "Every card closes with a small briefcase icon + 'Professional' label pinned to its lower-left — a consistent taxonomy stamp that tags audience without a coloured pill, keeping the card face image-and-title only."
+      },
+      {
+        "label": "Clay pill primary CTA",
+        "desc": "'Try Claude' is the single dark filled pill in the nav, with a ghost-outlined 'Contact sales' beside it and plain text links for the rest. One high-mass action against the sunburst wordmark and otherwise weightless menu."
+      }
+    ],
+    "dateAdded": "2026-06-16",
+    "cover": "/screenshots/claude-tutorials.jpg"
   }
 ]
