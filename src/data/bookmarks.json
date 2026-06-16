@@ -934,5 +934,52 @@
     ],
     "dateAdded": "2026-06-16",
     "cover": "/screenshots/research-google.jpg"
+  },
+  {
+    "id": "morpho",
+    "url": "https://morpho.org/",
+    "title": "Morpho",
+    "subtitle": "The Open Credit Network",
+    "creator": "Morpho Labs",
+    "handle": "@Morpho",
+    "style": "Editorial DeFi Blog — Pill Filters + Bespoke Cover Art",
+    "builder": "Custom",
+    "categories": [
+      "editorial",
+      "layout",
+      "ui-components",
+      "typography"
+    ],
+    "accent": "#3b6cf6",
+    "accentDim": "rgba(59,108,246,0.08)",
+    "accentBorder": "rgba(59,108,246,0.2)",
+    "techniques": [
+      {
+        "label": "Outlined pill filter bar",
+        "desc": "Category taxonomy (All · 101 Content · General · Governance · Newsletter · Press Release · Product · Protocol · Token) sits as a wrapping row of ghost pills — only the active 'All' gets a solid dark outline. Selection by stroke weight, no fill swap, no underline indicator."
+      },
+      {
+        "label": "Search pill on the same baseline",
+        "desc": "A wide rounded 'Search an article' field with a trailing magnifier shares the filter row's right edge, set in the same pill language. Filtering and searching read as one control surface rather than two separate widgets."
+      },
+      {
+        "label": "Three-column editorial card grid",
+        "desc": "Articles laid out as a clean 3-up grid of cover image + title, with no card borders or shadows — the bespoke cover art does all the separation. Headlines set in a near-black grotesque, generous white gutters carry the rhythm."
+      },
+      {
+        "label": "Bespoke per-article cover system",
+        "desc": "Every post gets a custom illustration in one consistent visual world — cornflower-blue gradient blobs, isometric dark cubes with a single red accent cube, dotted 'Morpho Effect' newsletter template, orbital node diagrams. A house art-direction that makes the index itself the brand showcase."
+      },
+      {
+        "label": "Recurring newsletter template card",
+        "desc": "'The Morpho Effect' issues share a fixed cover layout — dark dotted left panel with the wordmark + vertical [ MONTH _ YEAR ] tab, paired with a changing illustrated right panel and a white caption chip. Series identity built into a reusable cover frame."
+      },
+      {
+        "label": "Hover-state metadata row",
+        "desc": "Lower cards surface a date (01 Jun 2026) on the left and a category pill (General / Newsletter) on the right above the image — lightweight monochrome meta that appears as a thin top rail, keeping the grid clean while still tagging each item."
+      }
+    ],
+    "dateAdded": "2026-06-16",
+    "cover": "/screenshots/morpho.jpg"
   }
 ]
