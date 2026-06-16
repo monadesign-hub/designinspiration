@@ -981,5 +981,52 @@
     ],
     "dateAdded": "2026-06-16",
     "cover": "/screenshots/morpho.jpg"
+  },
+  {
+    "id": "openai",
+    "url": "https://openai.com/",
+    "title": "OpenAI",
+    "subtitle": "Featured Story Editorial Grid",
+    "creator": "OpenAI",
+    "handle": "@OpenAI",
+    "style": "Editorial White SaaS — Asymmetric Feature Grid",
+    "builder": "Custom · Next.js",
+    "categories": [
+      "landing-page",
+      "layout",
+      "typography",
+      "ui-components"
+    ],
+    "accent": "#000000",
+    "accentDim": "rgba(0,0,0,0.05)",
+    "accentBorder": "rgba(0,0,0,0.12)",
+    "techniques": [
+      {
+        "label": "Asymmetric feature grid",
+        "desc": "One oversized hero card (Codex) holds the left two-thirds while a stacked column of smaller story cards (Better memory, GPT-5.5) runs the right third. Magazine cover hierarchy — size alone signals which story leads, no 'Featured' label needed."
+      },
+      {
+        "label": "Stacked product-mockup collage",
+        "desc": "The hero art layers a browser-chrome 'Financial Landscape / ELEVATE' dashboard window over a fragmented 'better ideas. together.' poster and a deep-blue bar chart — overlapping cropped surfaces build depth instead of one flat key image."
+      },
+      {
+        "label": "Caption-below-image cards",
+        "desc": "Every card keeps its title and meta in plain near-black text on white, sitting outside and below the colourful image rather than over it. Image is the colour; type stays monochrome and legible — strict separation of art and label."
+      },
+      {
+        "label": "Category + read-time meta line",
+        "desc": "Each story tags itself with a discipline (Research / Product) and a 'X min read' in muted grey — editorial publication conventions applied to a corporate AI homepage. The site reads as a magazine masthead, not a product pitch."
+      },
+      {
+        "label": "Black pill primary CTA",
+        "desc": "'Try ChatGPT ↗' is the only solid-black filled element in the nav, paired with a ghost 'Log in ⌄'. Single high-mass action against an otherwise weightless white-and-text nav — one button carries all conversion intent."
+      },
+      {
+        "label": "Text-only horizontal nav",
+        "desc": "Research · Products · Business · Developers · Company · Foundation set as plain near-black labels with a lone search glyph — no dropdown chrome, no pills, no active underline at rest. Wordmark + words, maximum restraint."
+      }
+    ],
+    "dateAdded": "2026-06-16",
+    "cover": "/screenshots/openai.jpg"
   }
 ]
